@@ -1,4 +1,4 @@
-rint("Boas tardes")
+print("Boas tardes")
 nome = input("Como te chamas?")
 print("O teu nome é ",nome)
 
